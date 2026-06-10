@@ -1,4 +1,4 @@
-# SAM 2 Live v6 — Arquitectura Modular y Producción de Video
+# SAM 2 Live — Arquitectura Modular y Producción de Video
 
 
 <p align="center">
