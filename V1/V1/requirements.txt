@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+opencv-python-headless
+pillow
+numpy
+websockets
+huggingface_hub
