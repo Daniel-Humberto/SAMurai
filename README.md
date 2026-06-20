@@ -304,3 +304,8 @@ El modelo SAM 3 es propiedad de Meta AI y se distribuye bajo la SAM License. Los
 Este repositorio se distribuye bajo licencia **MIT** — ver [`LICENSE`](LICENSE).
 
 Las bibliotecas de terceros utilizadas (Ultralytics, Roboflow Supervision, ByteTrack, fpdf2, piper-tts) se atribuyen conforme a sus licencias originales. El rol de cada dependencia en el pipeline está descrito en [`docs/Technic.md`](docs/Technic.md).
+
+
+Video: https://youtu.be/3BiJVQXjj5o
+
+Post: https://www.linkedin.com/posts/alan-manuel-medina-solis-989807246_samurai-es-un-proyecto-de-visi%C3%B3n-computacional-ugcPost-7473976411406532608-G2wd/?utm_source=share&utm_medium=member_android&rcm=ACoAADz89LkB6-8tlAqCtEADQ_QFbGgVXQZ3x1U
