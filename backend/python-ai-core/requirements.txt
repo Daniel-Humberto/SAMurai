@@ -1,0 +1,29 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart
+sqlalchemy>=2.0
+alembic
+psycopg[binary]
+redis[hiredis]
+opencv-python-headless
+numpy
+scipy
+filterpy
+pillow
+anthropic
+openai
+google-generativeai
+# SAM 3 — Segment Anything with Concepts (arXiv:2511.16719)
+# Backend principal: ultralytics (incluye sam3_*.pt)
+ultralytics>=8.3.0
+# Backend secundario: HuggingFace transformers
+transformers>=4.45.0
+# Tracking y supervision
+supervision>=0.24.0
+plotly>=5.22.0
+piper-tts
+fpdf2
+python-dotenv
+pydantic-settings
+aiofiles
+httpx
